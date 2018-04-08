@@ -1,0 +1,16 @@
+PODS:
+  - YKTestPod (0.1.0)
+
+DEPENDENCIES:
+  - YKTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  YKTestPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YKTestPod: db8aa74e60044556a67fc14faadbbcc7596442da
+
+PODFILE CHECKSUM: e812aeea5d4186e41c13f2812ec6fcd57bbba954
+
+COCOAPODS: 1.2.1

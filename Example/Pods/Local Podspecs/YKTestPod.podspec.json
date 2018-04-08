@@ -1,0 +1,22 @@
+{
+  "name": "YKTestPod",
+  "version": "0.1.0",
+  "summary": "A short description of YKTestPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yake/YKTestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yake": "yake_0223@126.com"
+  },
+  "source": {
+    "git": "https://github.com/yake/YKTestPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YKTestPod/Classes/**/*"
+}
