@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "TTPullUpDownVCAnimator.h"
+#import "Store.h"
 
 FOUNDATION_EXPORT double YKTestPodVersionNumber;
 FOUNDATION_EXPORT const unsigned char YKTestPodVersionString[];
