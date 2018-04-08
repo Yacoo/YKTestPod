@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YKTestPod_Example' do
+  pod 'YKTestPod', :path => '../'
+
+  target 'YKTestPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
