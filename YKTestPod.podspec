@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YKTestPod'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'short description of YKTestPod.'
 
 # This description is used to generate tags and improve search results.
